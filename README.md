@@ -1,3 +1,5 @@
+Note: This is an archived pet project from my early days as a PM learning backend architecture and Java principles (IoC, DI, Streams). For my current production work in Python and AI, please see my pinned repositories below.
+
 # IT Events Bot
 
 IT Events Bot is a Telegram bot sends a list of upcoming IT events in Russia.
